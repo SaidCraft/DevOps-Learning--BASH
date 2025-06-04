@@ -6,7 +6,7 @@ A collection of my bash notes, solutions to some scripting tasks.
 
 This repository documents my hands-on learning journey with Linux. It contains:
 - ✅ [Bash Notes](./bash-notes/notes.md) – Practical tips, command references, and troubleshooting guides from real experience.
-- ✅ (Scripting tasks)(links coming soon) – My workaround creating bash scripts based on scenarios
+- ✅ [Scripting Solutions](./scripting-solutions/) – My workaround creating bash scripts based on scenarios
 
 
 Each section is a self-contained learning log designed to strengthen my bash scripting  skills through active problem-solving.
